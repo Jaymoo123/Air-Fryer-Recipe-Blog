@@ -3,7 +3,6 @@ title: "How to Make Air Fryer Toast"
 description: "Crispy, golden brown toast in minutes using your air fryer."
 pubDate: 2025-08-03
 author: "Jaymoo123"
-slug: "air-fryer-toast"
 ---
 title: "How Many Cups Is 10 ml of Buttermilk?"
 slug: "how-many-cups-is-10-ml-of-buttermilk"
