@@ -11,7 +11,7 @@ const blog = defineCollection({
     altText: z.string(),
     image: z.string(),
     h1: z.string(),
-    summary: z.string(),
+    summary: z.union([z.string(), z.literal("")]),
     schema: z.string()
   })
 });
