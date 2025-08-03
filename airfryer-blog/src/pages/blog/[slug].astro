@@ -1,0 +1,19 @@
+---
+import { getEntryBySlug } from "astro:content";
+const { slug } = Astro.params;
+const post = await getEntryBySlug("blog", slug);
+---
+
+<html lang="en">
+  <head>
+    <title>{post.data.metaTitle}</title>
+    <meta name="description" content={post.data.metaDescription} />
+  </head>
+  <body>
+    <h1>{post.data.title}</h1>
+    <p>{post.data.date}</p>
+    <article>
+      {post.body}
+    </article>
+  </body>
+</html>
