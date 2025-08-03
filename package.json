@@ -1,11 +1,13 @@
 {
   "name": "airfryer-blog",
+  "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build"
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^4.0.0",
-    "@astrojs/mdx": "^3.2.0"
+    "astro": "^4.5.14"
   }
 }
