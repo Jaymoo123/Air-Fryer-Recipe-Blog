@@ -5,6 +5,7 @@
     "build": "astro build"
   },
   "dependencies": {
-    "astro": "^4.0.0"
+    "astro": "^4.0.0",
+    "@astrojs/content": "^2.5.0"
   }
 }
