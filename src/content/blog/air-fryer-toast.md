@@ -1,6 +1,6 @@
 ---
 title: "How Many Cups Is 10 ml of Buttermilk?"
-date: 2025-07-29
+date: "2025-07-29"
 author: "AirFryerRecipes.co.uk"
 category: "Measurement"
 metaTitle: "Quick Guide: Convert 10 ml of Buttermilk to Cups Easily"
